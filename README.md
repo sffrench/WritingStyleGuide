@@ -1,4 +1,4 @@
 WritingStyleGuide
 =================
 
-A guide to writing clear, concise, and consistent technical documentation.
+A guide to writing bad technical documentation.
